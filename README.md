@@ -1,6 +1,6 @@
 # Maze Solver: Comparing Search Algorithms
 
-Developer: Add your name before publishing.
+Developer: Jinsong Lin
 
 ## Abstract
 
