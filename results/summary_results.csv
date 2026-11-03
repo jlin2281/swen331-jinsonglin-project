@@ -1,0 +1,11 @@
+algorithm,maze_type,mazes_solved,average_path_cost,average_path_length,average_states_expanded,average_runtime_ms
+BFS,unweighted,10/10,63.80,63.80,182.80,0.630296
+BFS,weighted,10/10,151.90,63.80,182.80,0.638792
+DFS,unweighted,10/10,114.80,114.80,204.90,0.662050
+DFS,weighted,10/10,267.20,114.80,204.90,0.684700
+UCS,unweighted,10/10,63.80,63.80,182.80,0.709021
+UCS,weighted,10/10,146.70,64.80,183.50,0.727904
+Greedy,unweighted,10/10,67.00,67.00,82.90,0.438412
+Greedy,weighted,10/10,160.60,67.00,82.90,0.441079
+A*,unweighted,10/10,63.80,63.80,118.70,0.644646
+A*,weighted,10/10,146.70,64.80,155.20,0.846163

@@ -1,0 +1,7 @@
+Experiment summary
+
+The result files compare five search methods on 10 unweighted and 10 weighted mazes.
+BFS should be judged by path length on unweighted mazes.
+UCS and A-star should be judged by path cost on weighted mazes.
+DFS and Greedy may find a path quickly but do not promise the lowest-cost path.
+Runtime values are small and can change between runs, so states expanded is also important.
